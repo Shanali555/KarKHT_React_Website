@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KarKHT_React_Website/static/css/main.11852537.css",
+    "main.js": "/KarKHT_React_Website/static/js/main.b3581deb.js",
+    "static/js/787.40595921.chunk.js": "/KarKHT_React_Website/static/js/787.40595921.chunk.js",
+    "static/media/software.avif": "/KarKHT_React_Website/static/media/software.aeecc6ace13df2e09924.avif",
+    "static/media/app.jpg": "/KarKHT_React_Website/static/media/app.e5a3cd7f0bc01e0d6577.jpg",
+    "static/media/hero.png": "/KarKHT_React_Website/static/media/hero.feb9359177d5f4225d78.png",
+    "static/media/img2.png": "/KarKHT_React_Website/static/media/img2.1446234546736d47435c.png",
+    "static/media/marketing.jpg": "/KarKHT_React_Website/static/media/marketing.4587fef5ca7fb4fed20e.jpg",
+    "static/media/digital.webp": "/KarKHT_React_Website/static/media/digital.97a643a09a150970d6a1.webp",
+    "static/media/s1.jpg": "/KarKHT_React_Website/static/media/s1.056ee165415fc3392984.jpg",
+    "static/media/andorid.avif": "/KarKHT_React_Website/static/media/andorid.00fb837244741ab1693a.avif",
+    "index.html": "/KarKHT_React_Website/index.html",
+    "main.11852537.css.map": "/KarKHT_React_Website/static/css/main.11852537.css.map",
+    "main.b3581deb.js.map": "/KarKHT_React_Website/static/js/main.b3581deb.js.map",
+    "787.40595921.chunk.js.map": "/KarKHT_React_Website/static/js/787.40595921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11852537.css",
+    "static/js/main.b3581deb.js"
+  ]
+}
